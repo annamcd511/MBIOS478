@@ -1,4 +1,4 @@
-# MBIOS_478
+# MBIOS478
 
 gzip -d treated.fastq.gz
 
